@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "모각코(모여서 각자 코딩) 2회"
+title:  "모각코(모여서 각자 코딩) 3회"
 date:   2018-01-24 18:01:32 +0900
 categories: jekyll update
 ---
