@@ -2,7 +2,7 @@
 layout: post
 title:  "모각코(모여서 각자 코딩) 2회(후기)"
 date:   2018-01-22 20:59:18 +0900
-categories: jekyll update
+categories: 모각코
 ---
 
 저번 포스팅에 이어 이번에는 Jupyter Notebook을 이용하는 포스팅을 진행하도록 하겠습니다.

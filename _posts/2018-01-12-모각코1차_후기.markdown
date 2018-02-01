@@ -2,7 +2,7 @@
 layout: post
 title:  "모각코(모여서 각자 코딩) 1회(후기)"
 date:   2018-01-12 18:18:18 +0900
-categories: jekyll update
+categories: 모각코
 ---
 
 Jekyll 기반의 블로그는 마크다운 방식의 문서로 포스트를 작성함으로써, 다른 플랫폼보다 더 논리적인 방법으로 글 작성 및 디자인을 가능하게 합니다.

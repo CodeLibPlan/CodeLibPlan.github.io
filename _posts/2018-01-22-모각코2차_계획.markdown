@@ -2,7 +2,7 @@
 layout: post
 title:  "모각코(모여서 각자 코딩) 2회"
 date:   2018-01-22 17:56:48 +0900
-categories: jekyll update
+categories: 모각코
 ---
 이 포스팅은 모(여서)각(자)코(딩) 프로그램의 일환으로 제작되었으며, 두 번째 모임의 주제는 서버에 Jupyter notebook을 안정적으로 설치하여 구동하기 위하여,
 {% highlight ruby %}
