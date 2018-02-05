@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "모각코(모여서 각자 코딩) 4회(후기)_Eclipse che"
+title:  "모각코(모여서 각자 코딩) 5회(후기)\_Data Structure(python)"
 date:   2018-02-05 20:52:39 +0900
 categories: 모각코
 ---
