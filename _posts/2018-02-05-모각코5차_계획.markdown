@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "모각코(모여서 각자 코딩) 4회"
+date:   2018-02-05 18:11:42 +0900
+categories: 모각코
+---
+
+이 포스팅은 모(여서)각(자)코(딩) 프로그램의 일환으로 제작되었으며, 네 번째 모임의 주제는 완전히 정리된 서버를 가지고
+{% highlight ruby %}
+python으로 자료구조(ArrayBag, LinkedBag) 코딩하기
+{% endhighlight %}
+를 진행하기로 하였습니다.
