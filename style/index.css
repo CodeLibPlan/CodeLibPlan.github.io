@@ -45,14 +45,8 @@ section{
 #blog_articles{
 	text-align:center;
 }
-#blog_articles_more{
-	margin:8px auto;
-}
 #github_repo{
 	text-align:center;
-}
-#github_repo_more{
-	margin:8px auto;
 }
 #new_commits{
 	text-align:center;
@@ -67,6 +61,12 @@ section>h1 {
 }
 section>article{
 	margin-bottom:15px;
+}
+section>div>button{
+	width:100%;
+	margin:8px auto;
+	padding:
+	background:rgba(255,255,255,1);
 }
 
 footer{
