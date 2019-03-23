@@ -35,7 +35,6 @@ html {
 }
 section{
 	background-color:white;
-	padding:4px;
 }
 .max_section_width{
 	background:rgba(0,0,0,0.05);
@@ -47,23 +46,27 @@ section{
 	text-align:center;
 }
 #blog_articles_more{
-	margin:auto;
+	margin:8px auto;
 }
 #github_repo{
 	text-align:center;
 }
 #github_repo_more{
-	margin:auto;
+	margin:8px auto;
 }
 #new_commits{
 	text-align:center;
 }
 section>h1 {
-	background:rgba(227,165,112,0.4);
+	background:rgba(227,165,112,0);
 	display:inline-block;
 	padding:3px 15px;
 	margin:5px;
+	margin-top:15px;
 	box-shadow: 1px 1px 3px 3px rgba(0,0,0,0.08);
+}
+section>article{
+	margin-bottom:15px;
 }
 
 footer{
